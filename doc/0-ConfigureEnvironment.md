@@ -5,7 +5,7 @@
 
 ## Step 0: Create project folder
 * Create a folder that you want to use as a project folder.
-* Open it in **Visual Studio Code**.
+* Open it in **Visual Studio Code** or other text editer.
 
 ## Step 1: Install nasm
 * Launch your terminal in your project floder, and then enter the command to install the assembly compiler **nasm**:
